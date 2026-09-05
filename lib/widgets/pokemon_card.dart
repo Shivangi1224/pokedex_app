@@ -97,7 +97,7 @@ class PokemonCard extends StatelessWidget {
             Text(
               pokemon.name[0].toUpperCase() + pokemon.name.substring(1),
               style: TextStyle(
-                fontSize: 26,
+                fontSize: 32,
                 fontWeight: FontWeight.bold,
                 letterSpacing: 0.8,
                 fontFamily: 'Poppins',
@@ -161,6 +161,20 @@ class PokemonCard extends StatelessWidget {
                     'Height: ${pokemon.height}' becomes like "Height: 4" automatically.
                   */
                 ],
+              ),
+            ),
+
+            const SizedBox(height: 30,),
+
+            Text(
+              'Abilities: ${pokemon.abilities.join(', ')}',
+              textAlign: TextAlign.center,
+              style: const TextStyle(
+                fontFamily: 'Poppins',
+                fontWeight: FontWeight.w600,
+                fontSize: 16,
+                letterSpacing: 0.8,
+                height: 1.4,
               ),
             ),
           ],
