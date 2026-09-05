@@ -72,6 +72,11 @@ flutter pub get
 flutter run
 ```
 ---
+## 🎥 Demo
+
+[Demo Video](https://drive.google.com/file/d/1WU_wlRFzUrqcgoAfOeTF9BTs4HgRUV7m/view?usp=sharing)
+
+---
 <div align="center">
   
 _Thanks for checking out Pokédex ! ✨_
