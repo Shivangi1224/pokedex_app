@@ -60,21 +60,26 @@ git clone https://github.com/Shivangi1224/pokedex_app.git
 ```
 
 2. Navigate to the project folder:
+
 ```bash
 cd pokedex_app
 ```
+
 3. Get the dependencies:
+
 ```bash
 flutter pub get
 ```
+
 4. Run the app:
+
 ```bash
 flutter run
 ```
----
+
 ## 🎥 Demo
 
-[Demo Video](https://drive.google.com/file/d/1WU_wlRFzUrqcgoAfOeTF9BTs4HgRUV7m/view?usp=sharing)
+[▶️ Watch Demo Video Here](https://drive.google.com/file/d/1WU_wlRFzUrqcgoAfOeTF9BTs4HgRUV7m/view?usp=sharing)
 
 ---
 <div align="center">
